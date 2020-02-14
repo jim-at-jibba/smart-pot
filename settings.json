@@ -1,0 +1,13 @@
+{
+  "settings": {
+    "temp": {
+      "max": 24,
+      "min": 10
+    },
+    "lux": {
+      "max": 300,
+      "min": 150
+    },
+    "mositure": {}
+  }
+}
